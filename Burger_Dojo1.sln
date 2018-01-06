@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burger_Dojo1", "Burger_Dojo1\Burger_Dojo1.csproj", "{C1F2C631-81E8-4281-92EE-B61BB2A7A851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1F2C631-81E8-4281-92EE-B61BB2A7A851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F2C631-81E8-4281-92EE-B61BB2A7A851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F2C631-81E8-4281-92EE-B61BB2A7A851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F2C631-81E8-4281-92EE-B61BB2A7A851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A630D0F-6CF0-4716-9603-2CE86DA62EB1}
+	EndGlobalSection
+EndGlobal
